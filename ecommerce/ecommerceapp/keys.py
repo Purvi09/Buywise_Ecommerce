@@ -1,0 +1,2 @@
+razorpay_id="rzp_test_pOKMCe0710mDGP"
+razorpay_account_id="VmLZ8J8VYiX5Zv5tetDr6s7z"
